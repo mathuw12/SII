@@ -1,2 +1,2 @@
 # SII
-Reositorio para las prácticas del laboratoio de SII
+Repositorio para las prácticas del laboratoio de SII
